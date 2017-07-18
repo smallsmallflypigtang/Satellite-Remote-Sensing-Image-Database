@@ -1,0 +1,30 @@
+It consists of equal-sized (256×256) images of 20 land cover categories selected from satellite images with a ground sample distance (GSD) of 50 cm. 
+
+The images were downloaded from the DigitalGlobe Imagery Product Samples covering the following regions: Boli (China), Brisbane (Australia), Buenos Aires (Argentina), Cape Town (South Africa), Hong Kong (China), Karamandere (Turkey), Miami (United States), Paris (France), San Clemente (United States), Santiago (Chile), and Shenzhen (China).
+
+The satellites producing these images include WorldView-2, GeoEye-1, and QuickBird. 
+
+There are 3000 images covering the following categories: 
+Agricultural
+Airplane
+Artificial Lawn
+Beach
+Building
+Chaparral
+Cloud
+Container
+Dense Residential
+Factory
+Forest
+Harbor
+Medium-Density Residential
+Ocean
+Parking Lot
+River
+Road
+Runway
+Sparse Residential
+Storage Tanks
+Please cite the following paper when publishing results that use this dataset:
+
+Tang, Xu*, Licheng Jiao, William J. Emery, Fang Liu, and Dan Zhang. "Two-Stage Reranking for Remote Sensing Image Retrieval." IEEE Transactions on Geoscience and Remote Sensing (2017).
